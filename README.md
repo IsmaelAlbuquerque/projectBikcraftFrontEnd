@@ -1,4 +1,4 @@
 # projectBikcraftFrontEnd
 Projeto desenvolvido através do curso Web Design Completo oferecido pela Origamid.
 
-<img src="https://gph.is/g/E1X9lB3" width="640" height="480"/>
+<img src="https://media.giphy.com/media/lqe9KWK4lQbuPExj72/giphy.gif" width="640" height="480"/>
